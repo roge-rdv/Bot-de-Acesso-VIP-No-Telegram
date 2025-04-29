@@ -22,7 +22,7 @@ Este bot gera links de convite temporários para grupos VIP do Telegram e remove
 
 1. Clone o repositório:
    ```bash
-   https://github.com/devRogi/Bot-de-Acesso-VIP-no-Telegram.git
+   https://github.com/roge-rdv/Bot-de-Acesso-VIP-No-Telegram
    cd Bot-de-Acesso-VIP-no-Telegram
    ```
 
